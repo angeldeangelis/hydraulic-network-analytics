@@ -7,22 +7,22 @@ Este repositorio presenta un marco de trabajo computacional avanzado diseñado p
 
 ---
 
-## 👁️ Pilares Fundamentales (Estructura de Persuasión)
+## 👁️ Pilares Fundamentales 
 
-### 1. Principio de Autoridad: Fundamento Científico y Criterio de Dominio
+### 1. Fundamento Científico y Criterio de Dominio
 A diferencia de los portafolios genéricos de ciencia de datos, este proyecto rechaza las suposiciones puramente empíricas. Está anclado estructuralmente en las leyes de la hidrodinámica y la termodinámica.
 
 * **El Problema:** La ingesta de datos crudos introdujo un ruido de telemetría severo, mostrando presiones físicamente imposibles que superaban los millones de PSI.
 * **La Solución:** Implementación de un filtro de dominio hidráulico estricto para aislar la ventana operativa normativa ($22\text{ a }58\text{ PSI}$), transformando conjuntos de datos caóticos en analítica de infraestructura limpia y de grado de producción.
 
-### 2. Principio de Escasez: El Continuo del Ingeniero Civil Computacional
+### 2.  El Continuo del Ingeniero Civil Computacional
 Este marco de trabajo aborda un punto ciego crítico a nivel global: la intersección entre la ingeniería de infraestructura pesada y el desarrollo de software de élite.
 
 * **Punto Ciego de la Ingeniería Tradicional:** La dependencia de software comercial cerrado (ej. WaterGEMS, EPANET) restringe la optimización personalizada en tiempo real.
 * **Punto Ciego de la Ciencia de Datos:** Los analistas tradicionales carecen del contexto de dominio sobre pérdidas de carga, rugosidad de tuberías y restricciones de fricción de Darcy-Weisbach.
 * **El Perfil Anómalo:** Este repositorio actúa como una prueba de concepto para el diseño de software de infraestructura autónomo, capaz de anular la dependencia de herramientas de caja negra.
 
-### 3. Principio de Consenso: Impacto Financiero Ejecutivo
+### 3. Impacto Financiero Ejecutivo
 La complejidad técnica debe traducirse en justificación financiera para alinearse con los objetivos de los tomadores de decisiones. Mediante la implementación de métricas lógicas condicionales avanzadas, el sistema traduce el estrés físico en variables económicas:
 
 * **Diagnóstico de Infraestructura Crítica:** Aislamiento de 36 nodos severamente comprometidos que provocaban ineficiencias operacionales.
@@ -44,7 +44,7 @@ El motor analítico evaluó múltiples paradigmas matemáticos para modelar el c
 ### 📊 Evidencia Visual de la Indeterminación Física
 El módulo final de visualización resalta la realidad física de la red:
 
-![Auditoría del Modelo](script/ml_models/diagnostico_modelo.png)
+![Auditoría del Modelo](reports/figures/diagnostico_modelo.png)
 
 * **Conclusión:** La convergencia de $R^2 \approx 0$ en todos los algoritmos demuestra matemáticamente que la elevación por sí sola no posee señal predictiva en redes balanceadas artificialmente. El estado operacional es estocástico bajo los datos actuales, determinando la necesidad técnica de integrar variables dinámicas ocultas (caudales de diseño, diámetros de tuberías y distancia real a fuentes de bombeo).
 
