@@ -44,7 +44,7 @@ The analytical engine evaluated multiple mathematical paradigms to model pressur
 ### 📊 Visual Evidence of Thermodynamic Boundary
 The final visualization module highlights the physical reality of the network:
 
-![Model Audit](script/ml_models/diagnostico_modelo.png)
+![Model Audit](reports/figures/diagnostico_modelo.png)
 
 * **Conclusion:** The convergence of $R^2 \approx 0$ across all algorithms scientifically proves that elevation alone contains zero predictive signal within artificially balanced networks. The operational state is stochastic under current data constraints, establishing a technical mandate to integrate dynamic hidden features (flow rate demands, pipe diameters, and source proximity).
 
