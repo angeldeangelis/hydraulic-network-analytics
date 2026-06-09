@@ -7,22 +7,22 @@ This repository presents an advanced computational framework designed to audit a
 
 ---
 
-## 👁️ Core Pillars (Persuasion Framework)
+## 👁️ Core Pillars 
 
-### 1. Principle of Authority: Scientific Foundation & Domain Expertise
+### 1. Scientific Foundation & Domain Expertise
 Unlike standard data science generic portfolios, this project rejects purely empirical assumptions. It is structurally anchored in the laws of fluid dynamics and thermodynamics. 
 
 * **The Problem:** Raw sensor ingestion introduced severe telemetry noise, showing non-physical pressures exceeding millions of PSI.
 * **The Solution:** Implemented a rigorous hydraulic domain filter to isolate the normative operating window ($22\text{ a }58\text{ PSI}$), transforming chaotic datasets into clean, production-grade infrastructure analytics.
 
-### 2. Principle of Scarcity: The Computational Civil Engineer Continuum
+### 2. The Computational Civil Engineer Continuum
 This framework addresses a critical global blind spot: the intersection of heavy infrastructure engineering and elite software development. 
 
 * **Traditional Engineering Blind Spot:** Relying on closed commercial software (e.g., WaterGEMS, EPANET) restricts real-time optimization.
 * **Data Science Blind Spot:** Traditional analysts lack the domain context of head loss, pipe roughness, and Darcy-Weisbach friction constraints.
 * **The Anomalous Profile:** This repository acts as a proof of concept for autonomous infrastructure software design, capable of overriding black-box tool dependencies.
 
-### 3. Principle of Social Proof & Consensus: Executive Financial Impact
+### 3. Executive Financial Impact
 Technical complexity must yield financial justification to align with stakeholder objectives. By implementing strict conditional logic metrics, the system translates physical stress into economic variables:
 
 * **Critical Infrastructure Diagnostic:** Isolated 36 severely compromised nodes driving severe operational inefficiencies.
