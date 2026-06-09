@@ -1,0 +1,27 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# === Entornos Virtuales ===
+.venv/
+venv/
+env/
+ENV/
+
+# === IDEs y Editores (Cursor / VS Code) ===
+.vscode/
+.workspace
+*.sublime-project
+*.sublime-workspace
+
+# === Sistema Operativo ===
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === Power BI (Archivos temporales de recuperación) ===
+*.tmp
