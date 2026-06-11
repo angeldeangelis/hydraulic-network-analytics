@@ -15,7 +15,7 @@ A diferencia de los portafolios genéricos de ciencia de datos, este proyecto re
 * **El Problema:** La ingesta de datos crudos introdujo un ruido de telemetría severo, mostrando presiones físicamente imposibles que superaban los millones de PSI.
 * **La Solución:** Implementación de un filtro de dominio hidráulico estricto para aislar la ventana operativa normativa ($22\text{ a }58\text{ PSI}$), transformando conjuntos de datos caóticos en analítica de infraestructura limpia y de grado de producción.
 
-### 2.  El Continuo del Ingeniero Civil Computacional
+### 2.  Ingenieria Civil Computacional
 Este marco de trabajo aborda un punto ciego crítico a nivel global: la intersección entre la ingeniería de infraestructura pesada y el desarrollo de software de élite.
 
 * **Punto Ciego de la Ingeniería Tradicional:** La dependencia de software comercial cerrado (ej. WaterGEMS, EPANET) restringe la optimización personalizada en tiempo real.
@@ -23,7 +23,7 @@ Este marco de trabajo aborda un punto ciego crítico a nivel global: la intersec
 * **El Perfil Anómalo:** Este repositorio actúa como una prueba de concepto para el diseño de software de infraestructura autónomo, capaz de anular la dependencia de herramientas de caja negra.
 
 ### 3. Impacto Financiero Ejecutivo
-La complejidad técnica debe traducirse en justificación financiera para alinearse con los objetivos de los tomadores de decisiones. Mediante la implementación de métricas lógicas condicionales avanzadas, el sistema traduce el estrés físico en variables económicas:
+La complejidad técnica debe traducirse en justificación financiera para alinearse con los objetivos de las tomas de decisiones. Mediante la implementación de métricas lógicas condicionales avanzadas, el sistema traduce el estrés físico en variables económicas:
 
 * **Diagnóstico de Infraestructura Crítica:** Aislamiento de 36 nodos severamente comprometidos que provocaban ineficiencias operacionales.
 * **KPI de Pérdida Cuantificada:** Las ineficiencias sistémicas representan una pérdida estimada de **$43,200 USD/mes** en costos de operación directos.
